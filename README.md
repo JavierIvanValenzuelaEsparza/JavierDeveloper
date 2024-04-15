@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! 👋 Soy Javier Iván, Desarrollador de Software de Tijuana, Baja California</h2>
+<h2 align="left">¡Hola! 👋 Soy Javier Ivan, Desarrollador de Software de Tijuana, Baja California</h2>
 
 ---
 
