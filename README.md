@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&theme=dark&show_icons=true&hide_border=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&theme=dark&show_icons=true&hide_border=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="gráfico de estadísticas"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes"  />
 </div>
